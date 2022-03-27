@@ -16,4 +16,4 @@ NOTE: The project is still on working phase, the code was developed on jupyter n
 
 # Network Structure and Results from paper and Results obtained
 - The network used is a deep depth neural network with residual connections
-[![Network Structure](https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/network_structure.JPG = 400*250)]
+[![Network Structure](https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/network_structure.JPG=400x250)]
