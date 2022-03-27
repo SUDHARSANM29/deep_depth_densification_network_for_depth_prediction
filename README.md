@@ -15,5 +15,5 @@ The Notebook folder contains the notebook file for training and testing the netw
 NOTE: The project is still on working phase, the code was developed on jupyter notebook, hence few extra lines for the adapting to the platform.
 
 # Network Structure and Results from paper and Results obtained
-
-
+- The network used is a deep depth neural network with residual connections
+![Network Structure](https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/network_structure.JPG)
