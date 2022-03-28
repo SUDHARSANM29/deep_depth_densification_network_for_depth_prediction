@@ -20,7 +20,7 @@ NOTE: The project is still on working phase, the code was developed on jupyter n
 - The input paameterization of lidar data. The datais further horizontal flipped to increase the data points.
 <img src="https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/input_parameterization.JPG" width="450" height="280">
 - The following image shows the result obtained in the paper which used extensive data for training.
-<img src="https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/paper_results.JPG" width="450" height="280">
+<img src="https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/paper_results.JPG" width="300" height="280">
 - The below diagram and table shows the output obtained using the network created in this project and trained using labelled NYUv2 dataset comprising of 1449 images.
 <img src="https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/test_prediction_nn.JPG" width="450" height="280">
-<img src="https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/network_results.JPG" width="450" height="280">
+<img src="https://github.com/SUDHARSANM29/deep_depth_densification_network_for_depth_prediction/blob/master/Images/network_results.JPG" width="450" height="150">
